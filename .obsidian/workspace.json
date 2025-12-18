@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verb aspects.md",
+                "file": "Declensions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Verb aspects"
+              "title": "Declensions"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "ad641d4f6ed774ea",
   "lastOpenFiles": [
-    "Declensions.md",
     "Adjectives.md",
-    "Verb aspects.md"
+    "Verb aspects.md",
+    "Declensions.md"
   ]
 }
